@@ -1,0 +1,1 @@
+Scoophies first git project!
